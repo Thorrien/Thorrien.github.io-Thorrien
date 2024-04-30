@@ -16,6 +16,10 @@ Réalisation d'un FRONT d'une app selon la maquette et les contraintes technique
 ### Projet 7: [AlgoInvestTrade](https://github.com/Thorrien/AlgoInvest-Trade)
 AlcoInvest est un algorithme conçu pour aider à la sélection de la meilleure combinaison d'investissements dans un contexte financier. Il résout un problème similaire au problème du sac à dos en choisissant les investissements les plus rentables tout en respectant une contrainte de budget. Ce projet a été réalisé en utilisant [Python].
 
+### Projet 9: [LITRevu](https://github.com/Thorrien/LITRevu)
+Développement d'une application permetant de demander ou publier des critiques de livres ou d’articles. L’application présente trois cas d’utilisation principaux :
+la publication des critiques de livres ou d’articles ; la demande des critiques sur un livre ou sur un article particulier ; la recherche d’articles et de livres intéressants à lire, en se basant sur les critiques des autres.[Python/Django/Bootstrap].
+
 ## Projets Sans lien avec la formation
 
 ### Projet X: [Suivi de la formation](https://github.com/Thorrien/Portfolio_OC)
