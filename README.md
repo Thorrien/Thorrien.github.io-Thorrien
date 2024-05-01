@@ -5,7 +5,7 @@ Pour profiter d'une version graphique réalisée automatiquement c'est [par ici]
 
 ## Projets Liés à la formation
 
-### Projet 2: [Analyse de amrché](https://github.com/Thorrien/Projet-1-Utilisez-les-bases-de-Python-pour-l-analyse-de-march-)
+### Projet 2: [Analyse de marché](https://github.com/Thorrien/Projet-1-Utilisez-les-bases-de-Python-pour-l-analyse-de-march-)
 Version bêta d'un script pour suivre les prix des livres chez Books to Scrape, un revendeur de livres en ligne. Ce projet a été réalisé en utilisant [Python].
 
 ### Projet 4: [ChessMaster](https://github.com/Thorrien/Projet4_chessmaster)
