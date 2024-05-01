@@ -1,6 +1,7 @@
 # Portfolio
 
 Bienvenue sur mon portfolio ! Ce dépôt GitHub contient une collection de mes projets, contributions et réalisations.
+Pour profiter d'une version graphique réalisée automatiquement c'est [par ici](https://thorrien.github.io/Thorrien.github.io-Thorrien/)
 
 ## Projets Liés à la formation
 
