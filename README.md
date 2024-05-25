@@ -23,7 +23,10 @@ la publication des critiques de livres ou d’articles ; la demande des critique
 
 ## Projets Sans lien avec la formation
 
-### Projet X: [Suivi de la formation](https://github.com/Thorrien/Portfolio_OC)
+### LPLGestion [https://github.com/Thorrien/LPLGestion]
+Outil de gestion d'une lan party multi jeu
+
+### Projet X: 
 Projet perso Django pour suivre ma formation. Ce projet a été réalisé en utilisant [Python/Django/Bootstrap].
 
 ### Projet X: [Hephaistos](lien_vers_le_projet)
