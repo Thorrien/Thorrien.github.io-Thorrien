@@ -16,9 +16,21 @@ Réalisation d'un FRONT d'une app selon la maquette et les contraintes technique
 ### Projet 7: [AlgoInvestTrade](https://github.com/Thorrien/AlgoInvest-Trade)
 AlcoInvest est un algorithme conçu pour aider à la sélection de la meilleure combinaison d'investissements dans un contexte financier. Il résout un problème similaire au problème du sac à dos en choisissant les investissements les plus rentables tout en respectant une contrainte de budget. Ce projet a été réalisé en utilisant [Python].
 
-### Projet 9: [LITRevu](https://github.com/Thorrien/LITRevu)
+### Projet 9: [LITRevu](https://github.com/Thorrien/API-s-curis-e-RESTful)
 Développement d'une application permetant de demander ou publier des critiques de livres ou d’articles. L’application présente trois cas d’utilisation principaux :
 la publication des critiques de livres ou d’articles ; la demande des critiques sur un livre ou sur un article particulier ; la recherche d’articles et de livres intéressants à lire, en se basant sur les critiques des autres.[Python/Django/Bootstrap].
+
+### Projet 10: [SoftDesk](https://github.com/Thorrien/API-s-curis-e-RESTful)
+Développement d'une API RESTful performante avec Django REST. Utilisation de Postman pour tester et valider les fonctionnalités. Et mise en place une authentification robuste avec OAUTH2. Elle permet de gérer des projets, des tickets (issues) et des commentaires. Les utilisateurs peuvent s'inscrire, se connecter, créer des projets et des tickets, et commenter des tickets. Les administrateurs ont des privilèges supplémentaires pour la création des tickets.[Python/Django/Postman].
+
+### Projet 11: [Güdlft](https://github.com/Thorrien/Python_Testing_projet11)
+Amélioration d'une application Web développée avec le microframework Flask. Déboguage du code et gestion les erreurs et exceptions en Python. Puis mise en place des tests unitaires, d'intégration et fonctionnels, python avec pytest. [Python/Flask/Pytest].
+
+### Projet 12: [EpicEvent](https://github.com/Thorrien/Python_sql)
+Développement d'une l’architecture back-end et la mise en œuvre d’une base de données sécurisée et de mécanismes d'authentification robustes. Création d'un logiciel CRM interne. EpicEvent est une application de gestion d'événements conçue pour faciliter le suivi et la coordination des clients, contrats et événements au sein de votre entreprise. L'application utilise une base de données SQL pour stocker et gérer les informations essentielles de manière sécurisée et efficace. [Python/MySQL/Sentry/Pytest].
+
+### Projet 13: [Orange County Lettings](https://github.com/Thorrien/Python-OC-Lettings-FR)
+Site web d'Orange County Lettings. Factorisation d’une application existante pour améliorer sa maintenabilité, sa performance et sa scalabilité. Vous identifierez et corrigerez les points faibles du code pour en améliorer la performance. Mise en place d'une pipelines CI/CD automatique avec GitLab lors de laquelle il y a la réalisation d'un lint, de tests, de la mesure de la qualité de code, d'un build d'une image docker et d'un déploiement sur un serveur Render. Mise en place d'une documentation automatique avec un hébergement Read the docs. [Python/MySQL/Sentry/Pytest/Read The Docs/ Gitlab].
 
 ## Projets Sans lien avec la formation
 
@@ -26,10 +38,7 @@ la publication des critiques de livres ou d’articles ; la demande des critique
 Projet perso Django pour suivre ma formation. Ce projet a été réalisé en utilisant [Python/Django/Bootstrap].
 
 ### Projet X: [Hephaistos](lien_vers_le_projet)
-App enc ours de développement. Ce projet a été réalisé en utilisant [Python/Django/Bootstrap].
-
-### Projet X: [PP](lien_vers_le_projet)
-Création d'un jeu video en cours. Ce projet a été réalisé en utilisant [UnrealEngine/php].
+App en cours de développement. Ce projet a été réalisé en utilisant [Python/Django/Bootstrap].
 
 
 ## Réalisations
