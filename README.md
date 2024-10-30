@@ -1,10 +1,11 @@
 # Portfolio
 
 Bienvenue sur mon portfolio ! Ce dépôt GitHub contient une collection de mes projets, contributions et réalisations.
+Pour profiter d'une version graphique réalisée automatiquement c'est [par ici](https://thorrien.github.io/Thorrien.github.io-Thorrien/)
 
 ## Projets Liés à la formation
 
-### Projet 2: [Analyse de amrché](https://github.com/Thorrien/Projet-1-Utilisez-les-bases-de-Python-pour-l-analyse-de-march-)
+### Projet 2: [Analyse de marché](https://github.com/Thorrien/Projet-1-Utilisez-les-bases-de-Python-pour-l-analyse-de-march-)
 Version bêta d'un script pour suivre les prix des livres chez Books to Scrape, un revendeur de livres en ligne. Ce projet a été réalisé en utilisant [Python].
 
 ### Projet 4: [ChessMaster](https://github.com/Thorrien/Projet4_chessmaster)
@@ -34,7 +35,10 @@ Site web d'Orange County Lettings. Factorisation d’une application existante p
 
 ## Projets Sans lien avec la formation
 
-### Projet X: [Suivi de la formation](https://github.com/Thorrien/Portfolio_OC)
+### LPLGestion [https://github.com/Thorrien/LPLGestion]
+Outil de gestion d'une lan party multi jeu
+
+### Projet X: 
 Projet perso Django pour suivre ma formation. Ce projet a été réalisé en utilisant [Python/Django/Bootstrap].
 
 ### Projet X: [Hephaistos](lien_vers_le_projet)
